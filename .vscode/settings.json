@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    "*.yml": "yaml",
+    ".env.development": "dotenv",
+    ".env.production": "dotenv",
+    ".keep": "raw",
+    "*.ts": "typescript",
+    ".env.development.local": "dotenv",
+    "chrono": "cpp"
+  }
+}
